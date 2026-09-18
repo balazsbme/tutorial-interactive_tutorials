@@ -11,8 +11,6 @@ Open `project/.env` and set:
 
 ```env
 OPENAI_API_KEY=your-openai-api-key
-OPENAI_BASE_URL=https://api.groq.com/openai/v1
-OPENAI_MODEL=openai/gpt-oss-20b
 VONAGE_NUMBER=your-vonage-number
 HUMAN_AGENT_NUMBER=your-human-agent-number
 ```
